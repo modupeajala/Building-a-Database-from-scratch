@@ -1,2 +1,2 @@
 # Building-a-Database-from-scratch
-A step by step process of redesigning Aras' database model.
+A step by step process of redesigning Aras' database model with MySQLWorkbench.
