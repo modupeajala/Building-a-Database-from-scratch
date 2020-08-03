@@ -21,7 +21,10 @@ Relational schema refers to the meta-data that describes the structure of data w
 # Create Table
 Below are sample queries for creating a table using mysqlworkbench. *Note: Tables can also be automatically uploaded on mysqlworkbench
 
-![image](https://user-images.githubusercontent.com/47016027/89231857-33e9a080-d5b4-11ea-88aa-02e92e0302dc.png)
+![image](https://user-images.githubusercontent.com/47016027/89232789-3d740800-d5b6-11ea-8dc5-49a06b7ab352.png)
 ![image](https://user-images.githubusercontent.com/47016027/89231893-4663da00-d5b4-11ea-923b-b62fbd0daaa9.png)
-# Sample code
+# Sample Query
 ![Screen Shot 2020-08-03 at 6 17 27 PM](https://user-images.githubusercontent.com/47016027/89232552-a8710f00-d5b5-11ea-92c3-7a06bedfb6e6.png)
+
+Refrences: https://www.oreilly.com/library/view/database-design-for/0201752840/ch11s02.html
+https://byte-notes.com/relational-schema/#:~:text=Relational%20schema%20refers%20to%20the,structure%20organizes%20data%20into%20tables.
