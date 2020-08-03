@@ -1,5 +1,7 @@
 # Building-a-Database-from-scratch
 A step by step process of redesigning Aras' database model with MySQLWorkbench.
+*Note: This is a project i completed for Aras Corparation as part of my final project in my Database Management class. Dummy data was used through out the process
+
 ![Screen Shot 2020-08-03 at 5 23 14 PM](https://user-images.githubusercontent.com/47016027/89228750-2fba8480-d5ae-11ea-80c8-2b29ccf1b47c.png)
 # Introduction
 A database is an organized collection of data, generally stored and accessed electronically from a computer system. 
@@ -10,3 +12,13 @@ one of the first steps in a database design is identifying the business rules. A
 ![Screen Shot 2020-08-03 at 5 40 13 PM](https://user-images.githubusercontent.com/47016027/89230039-993b9280-d5b0-11ea-9d00-e6e657530028.png)
 # Entity Relationship Diagram
 An ER diagram shows the relationship among entity sets. An entity set is a group of similar entities and these entities can have attributes. An entity in a dbms is a table or attribute of a table. Relationships could be one to one, one to many, or many to many. ER diagrams are used to sketch out the design of a database.
+![image](https://user-images.githubusercontent.com/47016027/89231235-e882c280-d5b2-11ea-85c4-239b21dfc57a.png)
+#  Relational Schema
+Relational schema refers to the meta-data that describes the structure of data within a certain domain. It is the blueprint of a database that outlines the way its structure organizes data into tables.
+
+![image](https://user-images.githubusercontent.com/47016027/89231390-3c8da700-d5b3-11ea-988f-41c7a9be6272.png)
+# Create Table
+Below are sample queries for creating a table using mysqlworkbench. *Note: Tables can also be automatically uploaded on mysqlworkbench
+
+![image](https://user-images.githubusercontent.com/47016027/89231857-33e9a080-d5b4-11ea-88aa-02e92e0302dc.png)
+![image](https://user-images.githubusercontent.com/47016027/89231893-4663da00-d5b4-11ea-923b-b62fbd0daaa9.png)
